@@ -13,3 +13,12 @@
 
 # Project-5
 <img width="1919" height="1079" alt="Screenshot 2025-10-08 020054" src="https://github.com/user-attachments/assets/05f44458-57b3-4a1d-8ec9-71884bbc13f7" />
+
+# Project-6
+<img width="1919" height="1079" alt="Screenshot 2025-10-08 211647" src="https://github.com/user-attachments/assets/be907c1f-a63a-4f48-87bf-0d31054c4fcd" />
+
+# Project-7
+<img width="1919" height="1079" alt="Screenshot 2025-10-08 190106" src="https://github.com/user-attachments/assets/6033216e-60e0-4568-991c-49377086d126" />
+
+# Project-8
+<img width="1919" height="1079" alt="Screenshot 2025-10-08 211539" src="https://github.com/user-attachments/assets/606b3e26-8b52-4d8d-89f1-1ca9685d4061" />
