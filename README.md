@@ -36,5 +36,5 @@
 <img width="1919" height="1079" alt="Screenshot 2026-01-10 201743" src="https://github.com/user-attachments/assets/0427652d-8d16-40d4-b7f8-22dbd5a0a68f" />
 
 # Project-13
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/3aca9212-9383-41cf-b380-3404d2835567" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7e764886-f027-4f87-abd1-2bc960797cba" />
 
